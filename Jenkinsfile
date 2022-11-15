@@ -10,6 +10,8 @@ pipeline {
         stage('build') {
             steps {
                 echo '<---hai hello--->'
+                
+                
             }
         }
     }
